@@ -11,6 +11,5 @@ As we are using **async/await** functions, we need to use await to call the func
 - Await is used to **wait** for the asynchronous call to finish;
 - All async functions **returns a promise**;
 
-    
-
-
+## Running
+Just `node ./index.js` and everything will be fine!
